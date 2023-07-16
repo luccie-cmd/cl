@@ -1,0 +1,4 @@
+push 34 ; 34
+push 35 ; 35
+plus    ; 69
+halt
